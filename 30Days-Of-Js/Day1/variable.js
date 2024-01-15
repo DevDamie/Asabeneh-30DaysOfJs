@@ -1,4 +1,4 @@
-let aString = "hello";
-let bool = true;
+let greet = "hello";
+let white = true;
 let undefinedVariable;
 let emptyVariable = null;

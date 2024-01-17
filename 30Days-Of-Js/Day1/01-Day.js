@@ -8,6 +8,8 @@
 /* comments can make code readable
 easy to reuse and informative */
 
+// for Questions 4 & 5: see ./variable.js and ./datatypes.js respectively
+
 // Question 6
 let center;
 let cloth;

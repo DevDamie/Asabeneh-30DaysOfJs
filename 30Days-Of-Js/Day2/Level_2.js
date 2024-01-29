@@ -7,8 +7,7 @@ console.log("The quote 'There is no exercise better for the heart than reaching 
 console.log(`"Love is not patronizing and charity isn't about pity, it is about love. Charity and love are the same -- with charity you give love, so don't just give money but reach out your hand instead."`);
 
 // Question 3
-let tyPe = typeof('10');
-check1 = (tyPe == 10) ? tyPe : 10;
+check1 = (typeof('10') == 10) ? typeof('10') : 10;
 
 // Question 4
 let figure = '9.8';

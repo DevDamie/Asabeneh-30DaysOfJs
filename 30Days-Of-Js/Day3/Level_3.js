@@ -1,7 +1,7 @@
 // Exercises: Level 3
 
 // Question 1: create a human readable format for date
-const d = new Date();
+const d = new Date(); // to get a new (current, updated) date each time
 
 let mins = d.getMinutes();
 mins < 10 ? '0' + mins.toString(): mins;
